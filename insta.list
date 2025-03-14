@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,gateway.instagram.com
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,cdninstagram
+DOMAIN-SUFFIX,static.cdninstagram.com
